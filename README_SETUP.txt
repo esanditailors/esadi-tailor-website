@@ -140,3 +140,10 @@ https://www.facebook.com/share/r/1Dv67b7z5B/
 https://www.facebook.com/share/r/18kpZCE9XJ/
 https://www.facebook.com/share/r/18YZ3ydBkH/
 https://www.facebook.com/share/r/1AKd4n79rj/
+
+
+Login Fix Update:
+- Public website navigation no longer says Customer Login.
+- Public customers now see Book Now / Booking Form.
+- Staff/admin system access is moved to staff-login.html.
+- This avoids customers entering the admin dashboard by mistake.
