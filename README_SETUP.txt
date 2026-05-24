@@ -147,3 +147,9 @@ Login Fix Update:
 - Public customers now see Book Now / Booking Form.
 - Staff/admin system access is moved to staff-login.html.
 - This avoids customers entering the admin dashboard by mistake.
+
+Public-only Login Fix:
+- Removed all admin/customer login links from the public website.
+- Removed staff-login.html.
+- Removed JavaScript data-login redirect behavior.
+- All public action buttons now go to booking.html / WhatsApp booking.
